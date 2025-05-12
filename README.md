@@ -19,13 +19,11 @@ What are the main objectives of this project?
 
 
 
-1.1. Create a database
-Next, you will create a database. The goal of this project is to learn how to work in a database and make SQL queries.
-
 1.1.1 Create a database
 
-Create a database named my_company_database. The database should contain the following table:
+⦁ Create a database named my_company_database. The database should contain the following table:
 employees. It will have the following fields:   
+
 id
 birth_date  
 first_name
@@ -33,7 +31,8 @@ last_name
 gender     
 
 1.1.2 Add new columns to the created table
-Add 3 new columns to the table:
+⦁ Add 3 new columns to the table:
+
 Column “salary
 Column “title” column
 Column “title_date”(date) column
@@ -42,11 +41,10 @@ Column “title_date”(date) column
 
 1.2. Execute the following SQL queries
 
-Next, you will need to perform the following SQL queries:
-
 1.2.1 INSERT DATA
 
-Insert at least 15 new employees:
+⦁ Insert at least 15 new employees:
+
 At least 3 employees must have the same name.
 The salaries of the employees must be in the range of
 5000 and 50,000 and must vary between different genders.
